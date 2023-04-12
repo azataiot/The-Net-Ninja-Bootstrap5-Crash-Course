@@ -1,0 +1,24 @@
+/* Style the table of contents */
+#toc {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+/* Style the table of contents links */
+#toc a {
+    display: block;
+    margin-left: 10px;
+    text-decoration: none;
+    color: #333;
+}
+
+/* Add a hover effect to the table of contents links */
+#toc a:hover {
+    text-decoration: underline;
+}
+
+/* Style the active table of contents link */
+#toc .active {
+    font-weight: bold;
+}
