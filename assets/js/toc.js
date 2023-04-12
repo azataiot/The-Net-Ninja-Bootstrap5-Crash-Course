@@ -16,6 +16,7 @@ for (let i = 0; i < headings.length; i++) {
     link.href = '#' + 'section-' + i;
 
     // Add the link to the table of contents
+    // HTML
     toc.appendChild(link);
 
     // Add a class of "active" to the current section in the table of contents
@@ -24,6 +25,7 @@ for (let i = 0; i < headings.length; i++) {
     }
 
     // Indent subsections
+    // CSS
     if (heading.tagName === 'H3') {
         link.style.marginLeft = '20px';
     } else if (heading.tagName === 'H4') {
