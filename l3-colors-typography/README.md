@@ -13,7 +13,7 @@
 
 Traditional heading elements are designed to work best in the meat of your page content. When you need a **heading to stand out**, consider using a display heading—a larger, slightly more opinionated heading style.
 
-![img_8.png](img_8.png)
+![img_8.png](assets/img_8.png)
 
 ## Display headings
 ```html
@@ -25,7 +25,7 @@ Traditional heading elements are designed to work best in the meat of your page 
 <h1 class="display-5">display 5 heading</h1>
 <h1 class="display-6">display 6 heading</h1>
 ```
-![img_9.png](img_9.png)
+![img_9.png](assets/img_9.png)
 
 ## Lead text and alignment 
 ```html
@@ -47,7 +47,7 @@ Traditional heading elements are designed to work best in the meat of your page 
     numquam quam velit veritatis? Blanditiis consectetur doloribus laboriosam, repellendus sequi vitae voluptatibus.
     Asperiores at cupiditate doloremque libero sit?</p>
 ```
-![img_10.png](img_10.png)
+![img_10.png](assets/img_10.png)
 
 ## Text decoration and font weight 
 ```html
@@ -58,7 +58,7 @@ Traditional heading elements are designed to work best in the meat of your page 
 <small>this is small text</small>
 ```
 
-![img_11.png](img_11.png)
+![img_11.png](assets/img_11.png)
 
 ## Text Colors 
 ```html
@@ -71,7 +71,7 @@ Traditional heading elements are designed to work best in the meat of your page 
 <p class="text-danger">theme danger color</p>
 <p class="text-muted">theme muted color</p>
 ```
-![img_12.png](img_12.png)
+![img_12.png](assets/img_12.png)
 
 ## Background Colors
 ```html
@@ -81,4 +81,4 @@ Traditional heading elements are designed to work best in the meat of your page 
 <p class="text-light bg-danger">light text on danger bg</p>
 <p class="text-dark bg-warning">dark text on the warning bg</p>
 ```
-![img_13.png](img_13.png)
+![img_13.png](assets/img_13.png)
